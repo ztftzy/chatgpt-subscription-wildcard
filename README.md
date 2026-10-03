@@ -1,0 +1,1 @@
+# chatgpt-subscription-wildcard
